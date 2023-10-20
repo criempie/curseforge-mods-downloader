@@ -5,6 +5,7 @@
 ### You must have Java >=16
 
 #### steps:
++ Download the file on the right the release tab
 + Put ```curseforge-mods-downloader.jar``` ```manifest.json``` in a individual folder
 + You can try to run the file by double-clicking, but in this case you will not see the console.
 +  Otherwise, start the console, write ```cd <path to this individual folder> ```.
