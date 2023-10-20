@@ -6,7 +6,7 @@
 
 #### steps:
 + Download the file on the right the release tab
-+ Put ```curseforge-mods-downloader.jar``` ```manifest.json``` in a individual folder
++ Put ```curseforge-mods-downloader.jar``` ```manifest.json``` (This is the file that is inside the modpack archive, which you must have downloaded from curseforge) in a individual folder
 + You can try to run the file by double-clicking, but in this case you will not see the console.
 +  Otherwise, start the console, write ```cd <path to this individual folder> ```.
 + + Write ``` java -jar curseforge-mods-downloader.jar``` and wait for the program to finish.
