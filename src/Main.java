@@ -56,8 +56,6 @@ public class Main {
 
             String[] some_urls = Arrays.copyOfRange(urls, from, to);
 
-            System.out.println(Arrays.toString(some_urls));
-
             FutureTask<LoadFileThreadResult> task = new FutureTask<>(new LoadFilesThread(some_urls, FILES_DIR));
             tasks[i] = task;
 
